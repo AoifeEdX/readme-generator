@@ -5,7 +5,7 @@ function addLicenseBadge(license) {
     if (!license) {
         return '';
     } else {
-        const encodedLicense = encodeURIComponent(license); // Use encodeURIComponent to handle spaces
+        const encodedLicense = encodeURIComponent(license); // Use encodeURIComponent to handle spaces in the license names
         return `[![${license} license](https://img.shields.io/badge/License-${encodedLicense}-blue.svg)](${addLicenseLink(license)})`;
     }
 }
