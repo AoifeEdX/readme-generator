@@ -6,7 +6,7 @@ Your GitHub profile is an essential aspect of your public identity as a develope
 
 With this README generator, you can quickly create a professional README by answering a few questions.
 
-Watch [this demo video](./assets/readme-generator.mp4) to see how to use this README generator.
+Watch [this demo video](https://drive.google.com/file/d/1CLnG9ustIP9ePy6R58Ctg0ZnM6HAF9iy/view?usp=sharing) to see how to use this README generator.
 
 ### Preview:
 
@@ -55,7 +55,7 @@ Here are some recommendations for what to include in your README:
 * **Questions:** Provide contact information for further inquiries.
 
 ## Questions
-Have questions about this project? Get in touch! Contact Aoife at aoife.z.dunphy@gmail.com. View more projects by Aoife on Github: [github.com/Name](https://github.com/AoifeEdX).
+Have questions about this project? Get in touch! Contact Aoife at aoife.z.dunphy@gmail.com. View more projects by Aoife on Github: [github.com/AoifeEdX](https://github.com/AoifeEdX).
 
 ## License
 
