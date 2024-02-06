@@ -55,7 +55,7 @@ Here are some recommendations for what to include in your README:
 * **Questions:** Provide contact information for further inquiries.
 
 ## Questions
-Have questions about this project? Get in touch! Contact Aoife at aoife.z.dunphy@gmail.com. View more projects by Aoife on Github: [github.com/Name](https://github.com/AoifeEdX).
+Have questions about this project? Get in touch! Contact Aoife at aoife.z.dunphy@gmail.com. View more projects by Aoife on Github: [github.com/AoifeEdX](https://github.com/AoifeEdX).
 
 ## License
 
