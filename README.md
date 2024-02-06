@@ -2,11 +2,16 @@
 
 ## Description
 
-Watch [this demo video](./readme-generator.mp4) to see how to use this README generator.
-
 Your GitHub profile is an essential aspect of your public identity as a developer. A well-crafted README allows you to showcase your work to other developers and potential employers. It explains what your application does, the technologies used, and any challenges faced.
 
 With this README generator, you can quickly create a professional README by answering a few questions.
+
+Watch [this demo video](./assets/readme-generator.mp4) to see how to use this README generator.
+
+### Preview:
+
+![demo](./assets/readme-generator.gif)
+
 
 ## Table of Contents:
 * [Installation](#installation)
